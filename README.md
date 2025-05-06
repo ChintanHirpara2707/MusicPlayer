@@ -6,17 +6,6 @@
 
 ---
 
-## 📦 APK Download
-
-Try it yourself and I’d love to hear your feedback 🙂:
-
-- [Download APK v2.0.0](https://drive.google.com/file/d/1HVmzkB4hSVR9_EcPAaj-VuQ4wbKfjsPj/view?usp=sharing)
-
----
-
-## 📸 Screenshots
-
-**Actual app looks even better! 😃**
 
 <kbd>
   <img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_2.png" width=30% height=30%/>
@@ -50,20 +39,13 @@ Try it yourself and I’d love to hear your feedback 🙂:
 
 ---
 
-## 🎥 YouTube Course
+## Tech Stack
 
-Watch the full YouTube playlist:  
-[Watch on YouTube](https://youtube.com/playlist?list=PL8kbUJtS6hyaRM3LhIYOqIXK7LIoEJ4Qf)
+- **Programming Language**: Kotlin  
+- **Framework**: Android SDK  
+- **Architecture**: MVVM (Model-View-ViewModel)  
+- **Local Storage**: Room Database  
+- **Notification**: AlarmManager or WorkManager with NotificationManager  
+- **UI**: ViewPager2 / RecyclerView with swipe gestures
 
----
-
-## 💡 Note
-
-This project is much more improved and optimized than the YouTube course project, with new features and better performance.
-
----
-
-## 💬 Feedback and Suggestions
-
-For any feedback or suggestions, feel free to contact me via email:  
-📧 [rajpurohitharsh2020@gmail.com](mailto:rajpurohitharsh2020@gmail.com)
+  
